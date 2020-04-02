@@ -1,27 +1,31 @@
 {
-  "_from": "simplebar",
+  "_args": [
+    [
+      "simplebar@5.1.0",
+      "C:\\Users\\stephen\\Desktop\\resume"
+    ]
+  ],
+  "_from": "simplebar@5.1.0",
   "_id": "simplebar@5.1.0",
   "_inBundle": false,
   "_integrity": "sha512-bdi1SleK1YOSnfeUjo5UQXt/79zNjsCJVEfzrm6photmGi2aU6x0l7rX4KAGcrtj5AwsWPBVXgDyYAqbbpnuRg==",
   "_location": "/simplebar",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "version",
     "registry": true,
-    "raw": "simplebar",
+    "raw": "simplebar@5.1.0",
     "name": "simplebar",
     "escapedName": "simplebar",
-    "rawSpec": "",
+    "rawSpec": "5.1.0",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "5.1.0"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/simplebar/-/simplebar-5.1.0.tgz",
-  "_shasum": "15437ace314ec888accd7d8f24ada672e9bb2717",
-  "_spec": "simplebar",
+  "_spec": "5.1.0",
   "_where": "C:\\Users\\stephen\\Desktop\\resume",
   "author": {
     "name": "Adrien Denat from a fork by Jonathan Nicol"
@@ -29,7 +33,6 @@
   "bugs": {
     "url": "https://github.com/grsmto/simplebar/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "can-use-dom": "^0.1.0",
     "core-js": "^3.0.1",
@@ -38,7 +41,6 @@
     "lodash.throttle": "^4.1.1",
     "resize-observer-polyfill": "^1.5.1"
   },
-  "deprecated": false,
   "description": "Scrollbars, simpler.",
   "devDependencies": {
     "css-loader": "^0.28.11",

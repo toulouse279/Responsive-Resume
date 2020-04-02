@@ -1,27 +1,31 @@
 {
-  "_from": "filterizr",
+  "_args": [
+    [
+      "filterizr@2.2.3",
+      "C:\\Users\\stephen\\Desktop\\resume"
+    ]
+  ],
+  "_from": "filterizr@2.2.3",
   "_id": "filterizr@2.2.3",
   "_inBundle": false,
   "_integrity": "sha512-1u3/TadXM12uNUlxHBRM31maMXY4DA2+sbeji4KSHk/m3LE4fMkTst+6W5YBlcBC1umICDiwplWsMqr6VzY5ZA==",
   "_location": "/filterizr",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "version",
     "registry": true,
-    "raw": "filterizr",
+    "raw": "filterizr@2.2.3",
     "name": "filterizr",
     "escapedName": "filterizr",
-    "rawSpec": "",
+    "rawSpec": "2.2.3",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "2.2.3"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/filterizr/-/filterizr-2.2.3.tgz",
-  "_shasum": "345f7bc5d861cdd63f15e7ad7fc312355752a03a",
-  "_spec": "filterizr",
+  "_spec": "2.2.3",
   "_where": "C:\\Users\\stephen\\Desktop\\resume",
   "author": {
     "name": "Yiotis Kaltsikis",
@@ -30,12 +34,10 @@
   "bugs": {
     "url": "https://github.com/giotiskl/filterizr/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "fast-memoize": "^2.5.1",
     "imagesloaded": "^4.1.4"
   },
-  "deprecated": false,
   "description": "Filterizr is a jQuery plugin that sorts, shuffles, searches and applies stunning filters over responsive galleries using CSS3 transitions and custom CSS effects",
   "devDependencies": {
     "@types/jest": "^24.0.15",
